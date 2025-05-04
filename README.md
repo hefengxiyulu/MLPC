@@ -1,5 +1,5 @@
 # Distinguishing-Structures-from-Textures-by-Patch-based-Contrasts-around-Pixels-for-Texture-filtering
-Distinguishing Structures from Textures by Patch-based Contrasts around Pixels for High-quality and Efficient Texture filtering
+Distinguishing Structures from Textures by Patch-based Contrasts around Pixels for High-quality and Efficient Texture filtering. The paper can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15212).
 
 # Requirements
 The code requires the version of Visual studio 2017, OpenCV, Windows 10
