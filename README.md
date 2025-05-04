@@ -7,7 +7,7 @@ The code requires the version of Visual studio 2017, OpenCV, Windows 10
 # Citing
 If you find this repository useful in your research, please consider citing:
 
-''' 
+```
 @inproceedings{wang2024distinguishing,
   title={Distinguishing Structures from Textures by Patch-based Contrasts around Pixels for High-quality and Efficient Texture filtering},
   author={Wang, Shengchun and Xu, Panpan and Hou, Fei and Wang, Wencheng and Zhao, Chong},
@@ -18,4 +18,4 @@ If you find this repository useful in your research, please consider citing:
   year={2024},
   organization={Wiley Online Library}
 }
-'''
+```
