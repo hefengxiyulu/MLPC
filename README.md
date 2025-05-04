@@ -5,7 +5,7 @@ Distinguishing Structures from Textures by Patch-based Contrasts around Pixels f
 The code requires the version of Visual studio 2017, OpenCV, Windows 10
 
 # Demo
-Run the demo main.cpp
+Run the demo `main.cpp`
 
 # Citing
 If you find this repository useful in your research, please consider citing:
